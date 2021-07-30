@@ -9,10 +9,10 @@ I'm from Kazakhstan, so please keep the Borat jokes to yourself... jk I love Bor
 
 
 ## Current Work:
-- 🔭 working on ... Meme Stock Project
-- 🌱 learning ... Next.js
-- 👯 looking to collaborate on ... web applications
-- 🤔 looking for help with ... Python for Data Science
+- 🔭 Right now I'm working on ... Meme Stock Project
+- 🌱 I'm learning more about... Next.js
+- 👯 I'm looking to collaborate on ... web applications
+- 🤔 I'm looking for help with ... Python for Data Science
 - 📫 How to reach me: ... [Linkedin](https://linkedin.com/in/dbayanda)
-- ⚡ Fun fact: ... I once eat 2.5lbs of chicken breast in one day
+- ⚡  Fun fact: ... I once eat 2.5lbs of chicken breast in one day
 -->
