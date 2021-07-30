@@ -3,8 +3,8 @@
 
 ## Hey! I'm Dzhangir(pron. _janghir_)
 
-I'm a incoming 3rd year undergraduate student at UC San Diego. Recently, I have been working on
-web development projects and gridning leetcode for DS and Alogrithms. Outside of work, I love to box/wrestle/do jiu-jitsu, basically anything combat sports related.
+I'm an incoming 3rd year undergraduate student at UC San Diego. Recently, I have been working on
+web development/mobile projects and grinding leetcode for DS and Alogrithms. Outside of work, I love to box/wrestle/do jiu-jitsu, basically anything combat sports related.
 I'm from Kazakhstan, so please keep the Borat jokes to yourself... jk I love Borat!
 
 
