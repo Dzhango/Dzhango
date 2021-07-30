@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.tenor.com/images/acc4116372dcc4b342cb1a00ae657151/tenor.gif)
 
 
 ## Hey! I'm Dzhangir(pron. _janghir_)
