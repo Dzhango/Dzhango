@@ -8,7 +8,7 @@ web development/mobile projects and grinding leetcode for DS and Alogrithms. Out
 I'm from Kazakhstan, so please keep the Borat jokes to yourself... jk I love Borat!
 
 
-## Currently:
+## Current Work:
 - 🔭 working on ... Meme Stock Project
 - 🌱 learning ... Next.js
 - 👯 looking to collaborate on ... web applications
