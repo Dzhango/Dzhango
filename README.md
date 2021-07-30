@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Python for Data Science
 - 💬 Ask me about my ... martial arts passion
 - 📫 How to reach me: ... [Linkedin](https://linkedin.com/in/dbayanda)
-- ⚡ Fun fact: ... I am a student at UC San Diego
+- ⚡ Fun fact: ... I once eat 2.5lbs of chicken breast in one day
 -->
