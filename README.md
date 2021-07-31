@@ -15,4 +15,3 @@ I'm from Kazakhstan, so please keep the Borat jokes to yourself... jk I love Bor
 - 🤔 I'm looking for help with ... Python for Data Science
 - 📫 How to reach me: ... [Linkedin](https://linkedin.com/in/dbayanda)
 - ⚡  Fun fact: ... I once eat 2.5lbs of chicken breast in one day
--->
