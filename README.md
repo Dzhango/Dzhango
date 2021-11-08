@@ -5,7 +5,6 @@
 
 I'm an incoming 3rd year undergraduate student at UC San Diego. Recently, I have been working on
 web development/mobile projects and grinding leetcode for DS and Algorithms. Outside of work, I love to box/wrestle/do jiu-jitsu, basically anything combat sports related.
-I'm from Kazakhstan, so please keep the Borat jokes to yourself... jk I love Borat!
 
 
 ## Current Work:
