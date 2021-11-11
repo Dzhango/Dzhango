@@ -8,9 +8,9 @@ web development/mobile projects and grinding leetcode for DS and Algorithms. Out
 
 
 ## Current Work:
-- 🔭 Right now I'm working on ... freelance project for an EMS company
-- 🌱 I'm learning more about... Next.js and static rendering
-- 👯 I'm looking to collaborate on ... web applications
-- 🤔 I'm looking for help with ... Python for Data Science
+- 🔭 Right now I'm working on ... freelance project for an EMS company.
+- 🌱 I'm learning more about... web mining and recommender systems.
+- 👯 I'm looking to collaborate on ... web applications.
+- 🤔 I'm looking for help with ... making websites for small businesses.
 - 📫 How to reach me: ... [Linkedin](https://linkedin.com/in/dbayanda)
-- ⚡  Fun fact: ... I once eat 2.5lbs of chicken breast in one day
+- ⚡  Fun fact: ... I have been taking cold showers every morning for the last 2.5 years.
