@@ -3,8 +3,7 @@
 
 ## Hey! I'm Dzhangir(pron. _janghir_)
 
-I'm an incoming 3rd year undergraduate student at UC San Diego. Recently, I have been working on
-web development/mobile projects and grinding leetcode for DS and Algorithms. Outside of work, I love to box/wrestle/do jiu-jitsu, basically anything combat sports related.
+I'm an incoming 3rd year computer science student at UC San Diego. Recently, I have been focusing on creating small CRUD projects and exploring interesting web technologies. Outside of work, I love to box/wrestle/do jiu-jitsu, basically anything combat sports related.
 
 
 ## Current Work:
