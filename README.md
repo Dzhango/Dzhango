@@ -3,13 +3,9 @@
 
 ## Hey! I'm Dzhangir(pron. _janghir_)
 
-I'm an incoming 3rd year computer science student at UC San Diego. Recently, I have been focusing on creating small CRUD projects and exploring interesting web technologies. Outside of work, I love to box/wrestle/do jiu-jitsu, basically anything combat sports related.
-
-
 ## Current Work:
-- 🔭 Right now I'm working on ... freelance project for an EMS company.
+- 🔭 Right now I'm working on ... freelance project for a Real Estate company.
 - 🌱 I'm learning more about... web mining and recommender systems.
 - 👯 I'm looking to collaborate on ... web applications.
 - 🤔 I'm looking for help with ... making websites for small businesses.
-- 📫 How to reach me: ... [Linkedin](https://linkedin.com/in/dbayanda)
-- ⚡  Fun fact: ... I have been taking cold showers every morning for the last 2.5 years.
+- 📫 How to reach me: ... [Linkedin](https://linkedin.com/in/dbayanda).
